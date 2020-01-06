@@ -75,9 +75,9 @@ The material in this section is not required for this class. The following books
  * *"Scientific Parallel Computing"* by L.R. Scott, T. Clark, and B. Bagheri, Princeton University Press.<br/>
  * *"Sourcebook of Parallel Programming"* by J. Dongara, I. Foster, G. Fox, W. Gropp, K. Kennedy, L. Torczon, and A. White (eds), Morgan Kaufmann.
  * *"Designing and Building Parallel Programs: Concepts and Tools for Parallel Software Engineering"* by I. Foster, Addison-Wesley Longman Publishing Co., Inc.<br/>
-* *"Introduction to Parallel Computing (2nd Edition)" by A. Grama, A. Gupta, G. Karypis and V. Kumar"*. Addison-Wesley Professional.<br/>  
+* *"Introduction to Parallel Computing (2nd ed.)" by A. Grama, A. Gupta, G. Karypis and V. Kumar"*. Addison-Wesley Professional.<br/>  
 * *"Parallel Algorithms"* by H. Casanova, A. Legrand and Y. Robert. Chapman & Hall/CRC. <br/>  
-* *"Introduction to Algorithms (3rd ed.)" by T. H. Cormen, C. E. Leiserson, R. L. Rivest, and C. Stein. MIT Press and McGraw-Hill. 
+* *"Introduction to Algorithms (3rd ed.)"* by T. H. Cormen, C. E. Leiserson, R. L. Rivest and C. Stein. MIT Press and McGraw-Hill. 
 
 
 ## Grading
